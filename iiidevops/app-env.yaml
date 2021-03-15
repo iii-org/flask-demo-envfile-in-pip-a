@@ -11,3 +11,5 @@ data:
   BearEmotion: "74"
   BearTel: "0987654321"
   env1: "aaa"
+  NewColor: NewColor
+  NewBear: Bear
