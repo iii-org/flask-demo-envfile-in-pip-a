@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config-multi-env-files
+  namespace: default
+data:
+  # 使用者APP的環境變數餵入
+  color: purple
+  how: fairlyNice
+  textmode: "true"
+  BearEmotion: "74"
+  BearTel: "0987654321"
+  env1: "aaa"

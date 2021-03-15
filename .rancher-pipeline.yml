@@ -18,7 +18,6 @@ stages:
         include:
         - master
         - develop
-- name: 
 - name: Test--Checkmarx source code scan
   steps:
   - applyAppConfig:
