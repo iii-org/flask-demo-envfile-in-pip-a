@@ -1,12 +1,6 @@
 # Flask Webpage with menu example
 flask簡易網頁程式碼範例-docker
 
-# Rancher Token:
-EndPoint: `https://10.20.0.77:3443/v3`
-user: `token-6hq8t`
-password(secretkey): `fhccxq4ghxwxvcgmxtznnl6grxksc5sqc42chbd2vx69f7brz7j5r7`
-bearer(token): `token-6hq8t:fhccxq4ghxwxvcgmxtznnl6grxksc5sqc42chbd2vx69f7brz7j5r7`
-
 ## 教學參考來源:
 * [how-to-build-a-web-application-using-flask](https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/)
 
